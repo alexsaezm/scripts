@@ -13,6 +13,7 @@ import sys
 
 import requests
 
+# Generate the token here -> https://src.fedoraproject.org/settings/token/new
 TOKEN = "PASTE-YOUR-src.fedoraproject.org-TOKEN-with-Modify-an-existing-project-access-HERE"
 
 def main():
